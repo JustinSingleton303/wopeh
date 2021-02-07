@@ -1,5 +1,10 @@
 /* styles.css stylesheet for wopeh site */
 
+/*landing styles*/
+#landing{
+  background-color:#654062;
+}
+
 /* navbar styles */
 .a1{
   color: #ffD66b;
@@ -22,8 +27,31 @@
 }
 
 .nav-icon{
-  color: #fff;
+  color: #f4f4f4;
+
   padding-right: 10px;
 }
 
 /* landing section */
+.landing-h2{
+  color: #F4F4F4;
+  font-family: "Montserrat";
+  font-size: 3.5rem;
+  font-weight: 700;
+  line-height: 1.5;
+  text-align: left;
+  margin-left: 30px;
+}
+
+.landing-img{
+  width: 600px;
+}
+
+.landing-row{
+  margin-top: 100px;
+  padding-bottom: 100px;
+}
+
+.landing-col1{
+  margin-top: 150px;
+}
