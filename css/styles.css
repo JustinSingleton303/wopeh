@@ -1,0 +1,29 @@
+/* styles.css stylesheet for wopeh site */
+
+/* navbar styles */
+.a1{
+  color: #ffD66b;
+}
+
+.a1:hover{
+  color: #ff9d72;
+}
+
+.my-navbar{
+  background-color: #654062;
+}
+
+.navbar-brand{
+  color: #ffD66b;
+}
+
+.navbar-brand:hover{
+  color: #ff9d72;
+}
+
+.nav-icon{
+  color: #fff;
+  padding-right: 10px;
+}
+
+/* landing section */
