@@ -33,6 +33,15 @@
 }
 
 /* landing section */
+.landing-h1{
+  color: #F4F4F4;
+  font-family:"Montserrat";
+  font-size: 3.7rem;
+  font-weight: 800;
+  line-height: 1.7;
+  text-align: center;
+}
+
 .landing-h2{
   color: #F4F4F4;
   font-family: "Montserrat";
@@ -44,12 +53,24 @@
 }
 
 .landing-img{
+  border-radius: 60%;
   width: 600px;
 }
 
+.landing-img1{
+  border-radius: 8px;
+  margin: auto;
+  width: 1056px;
+}
+
 .landing-row{
-  margin-top: 100px;
+  margin-top: 50px;
   padding-bottom: 100px;
+}
+
+.landing-row1{
+  margin-top: 50px;
+  /*padding-bottom: 100px;*/
 }
 
 .landing-col1{
