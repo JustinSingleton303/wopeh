@@ -14,6 +14,11 @@
   color: #ff9d72;
 }
 
+.landing-container{
+  background-color: #452042;
+
+}
+
 .my-navbar{
   background-color: #452042;
 }
@@ -28,8 +33,11 @@
 
 .nav-icon{
   color: #f4f4f4;
-
   padding-right: 10px;
+}
+
+.navbar-row{
+  margin-left: 50px;
 }
 
 /* landing section */
@@ -75,4 +83,11 @@
 
 .landing-col1{
   margin-top: 100px;
+}
+
+/* mission statement section*/
+
+#mission{
+  background-color:#F4F4F4;
+  text-align: center;
 }
