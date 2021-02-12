@@ -124,6 +124,16 @@
   color: #F4F4F4;
   font-family: "Montserrat";
 }
+.featured-container{
+  margin-top: 100px;
+  margin-bottom: 50px;
+}
+
+.featured-h2{
+  text-align: center;
+  font-size: 3rem;
+  font-weight: 600;
+}
 
 .featured-row{
   /*background-color:#452042;*/
