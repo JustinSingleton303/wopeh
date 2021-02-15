@@ -123,10 +123,15 @@
   background-color: #452042;
   color: #F4F4F4;
   font-family: "Montserrat";
+  text-align: center;
 }
 .featured-container{
   margin-top: 100px;
   margin-bottom: 50px;
+}
+
+.featured-div{
+  text-align: center;
 }
 
 .featured-h2{
@@ -138,4 +143,10 @@
 .featured-row{
   /*background-color:#452042;*/
   margin-top: 50px;
+}
+
+.featured-img{
+  border-radius: 50%;
+  margin: auto;
+  width: 550px;
 }
