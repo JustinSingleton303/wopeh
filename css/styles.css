@@ -145,8 +145,31 @@
   margin-top: 50px;
 }
 
+.featured-row1{
+  margin-top: 50px;
+  margin-bottom:50px;
+}
+
+.featured-row2{
+  margin-bottom:50px;
+}
+
 .featured-img{
   border-radius: 50%;
   margin: auto;
-  width: 550px;
+  width: 300px;
+}
+
+/* contact section*/
+
+#contact{
+  font-family: "Montserrat";
+}
+
+.contact-h2{
+  font-size: 2.5rem;
+}
+
+.contact-row{
+  margin-top: 50px;
 }
