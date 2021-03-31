@@ -2,33 +2,33 @@
 
 /*landing styles*/
 #landing{
-  background-color:#654062;
+  background-color:#A0A0A0;
 }
 
 /* navbar styles */
 .a1{
-  color: #ffD66b;
+  color: yellow;
 }
 
 .a1:hover{
-  color: #ff9d72;
+  color: yellow;
 }
 
 .landing-container{
-  background-color: #452042;
+  background-color: #A0A0A0;
 
 }
 
 .my-navbar{
-  background-color: #452042;
+  background-color: #A0A0A0;
 }
 
 .navbar-brand{
-  color: #ffD66b;
+  color:yellow;
 }
 
 .navbar-brand:hover{
-  color: #ff9d72;
+  color: Yellow;
 }
 
 .nav-icon{
@@ -51,7 +51,7 @@
 }
 
 .landing-h2{
-  color: #F4F4F4;
+  color: Yellow;
   font-family: "Montserrat";
   font-size: 3.5rem;
   font-weight: 700;
@@ -120,7 +120,7 @@
 
 /* featured horses section */
 #featured{
-  background-color: #452042;
+  background-color: #A0A0A0;
   color: #F4F4F4;
   font-family: "Montserrat";
   text-align: center;
@@ -141,7 +141,7 @@
 }
 
 .featured-row{
-  /*background-color:#452042;*/
+  /*background-color:#A0A0A0*/
   margin-top: 50px;
 }
 
