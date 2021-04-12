@@ -7,11 +7,11 @@
 
 /* navbar styles */
 .a1{
-  color: yellow;
+  color: #EED202;
 }
 
 .a1:hover{
-  color: yellow;
+  color: #EED202;
 }
 
 .landing-container{
@@ -24,11 +24,11 @@
 }
 
 .navbar-brand{
-  color:yellow;
+  color:#EED202;
 }
 
 .navbar-brand:hover{
-  color: Yellow;
+  color: #EED202;
 }
 
 .nav-icon{
@@ -51,7 +51,7 @@
 }
 
 .landing-h2{
-  color: Yellow;
+  color: #EED202;
   font-family: "Montserrat";
   font-size: 3.5rem;
   font-weight: 700;
@@ -158,6 +158,17 @@
   border-radius: 50%;
   margin: auto;
   width: 300px;
+}
+
+/* donate section */
+
+#donate{
+  font-family: "Montserrat";
+  background-color: #f4f4f4;
+}
+
+.container-donate{
+  background-color: #f4f4f4;
 }
 
 /* contact section*/
