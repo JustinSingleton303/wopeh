@@ -121,13 +121,17 @@
 /* featured horses section */
 #featured{
   background-color: #A0A0A0;
-  color: #F4F4F4;
+  color: #EED202;
   font-family: "Montserrat";
   text-align: center;
 }
 .featured-container{
   margin-top: 100px;
   margin-bottom: 50px;
+}
+
+.featured-button{
+  margin: auto;
 }
 
 .featured-div{
@@ -165,9 +169,32 @@
 #donate{
   font-family: "Montserrat";
   background-color: #f4f4f4;
+  font-weight: 700;
+
+  /*margin-bottom: 50px;*/
+}
+
+.donate-h1{
+  font-weight: 700;
+  text-align: center;
+}
+
+.btn-style{
+  color: #f4f4f4;
 }
 
 .container-donate{
+  background-color: #f4f4f4;
+  padding-bottom: 50px;
+  margin-bottom: 0;
+  text-align: center;
+}
+
+.mb-3{
+
+}
+
+.card-background{
   background-color: #f4f4f4;
 }
 
@@ -175,12 +202,16 @@
 
 #contact{
   font-family: "Montserrat";
+  color: #EED202;
+  background-color: #A0A0A0;
 }
 
 .contact-h2{
   font-size: 2.5rem;
+  font-weight: 600;
+  text-align: center;
 }
 
-.contact-row{
+.contact-col{
   margin-top: 50px;
 }
